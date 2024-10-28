@@ -25,7 +25,7 @@ const App: React.FC = () => {
       <CovidPieChart />
 
       <div className="map-container">
-        <IndiaMap />
+{/*         <IndiaMap /> */}
       </div>
 
       <div className="chart-container">
